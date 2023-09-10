@@ -10,13 +10,9 @@ In cases where the requested file was not found on the server, the server was pr
 
 ### **EXECUTION**
 
-Terminal for SERVER
+Terminal for SERVER `python3 webserver.py`
 
-`python3 webserver.py`
-
-Open at WEB BROWSER
-
-`127.0.0.1:6789/index.html`
+Open at WEB BROWSER `127.0.0.1:6789/index.html`
 
 #### **AUTHOR**
 
