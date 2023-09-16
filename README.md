@@ -14,7 +14,7 @@ Terminal for SERVER `python3 webserver.py`
 
 Open at WEB BROWSER `127.0.0.1:6789/index.html`
 
-#### **AUTHOR**
+### **AUTHOR**
 
 - Giovane Hashinokuti Iwamoto - Computer Science student at UFMS - Brazil - MS
 
